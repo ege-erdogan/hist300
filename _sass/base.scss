@@ -3,6 +3,11 @@
 //
 // stylelint-disable selector-no-type, selector-max-type
 
+@font-face {
+  font-family: "Merriweather;
+  src: url(".../Merriweather-Regular.ttf") format("TrueType");
+}
+
 * {
   box-sizing: border-box;
 }
