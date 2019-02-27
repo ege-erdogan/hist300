@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: HIST 300
-description: A Jekyll theme for documentation
+description: 
 baseurl: "/hist300" # the subpath of your site, e.g. /blog
 url: "http://blog.egeerdogan.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -28,6 +28,8 @@ search_enabled: true
 aux_links:
   "About":
     - "//egeerdogan.com"
+  "FAQ":
+    - "//FAQ"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
