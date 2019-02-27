@@ -11,8 +11,8 @@ permalink: /notes/module-1/mustafa
 > Became the sultan after Selim was dethroned. Got along well with Janissaries, did not question much. Deposed by rebels led after Alemdar Mustafa Pasha and replaced by his brother Mahmud II.
 
 ---
-* ['Rise to Power'](#rise-to-power)
-* ['Alemdar Mustafa Pasha'](#alemdar-mustafa-pasha)
+* [Rise to Power](#rise-to-power)
+* [Alemdar Mustafa Pasha](#alemdar-mustafa-pasha)
 
 ---
 

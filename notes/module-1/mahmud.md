@@ -11,10 +11,10 @@ permalink: /notes/module-1/mahmud
 > Mahmud II replaced his brother Mustafa as the sultan. He made wide-ranging reforms following in the footsteps of Selim. 
 
 ---
-* ['Personality'](#personality)
-* ['Sened-i Ittifak'](#sened-i-ittifak)
-* ['Reforms'](#reforms)
-* ['Vaka-i Hayriye'](#vaka-i-hayriye)
+* [Personality](#personality)
+* [Sened-i Ittifak](#sened-i-ittifak)
+* [Reforms](#reforms)
+* [Vaka-i Hayriye](#vaka-i-hayriye)
 
 ---
 

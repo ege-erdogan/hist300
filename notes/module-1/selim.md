@@ -11,12 +11,12 @@ permalink: /notes/module-1/selim
 >Took the throne in 1789. He was a reformist. Opened new schools, embassies, and created a new army. He was eventually dethroned and imprisoned by the Janissaries. His cousin Mustafa IV became the new sultan. 
 
 ---
-* ['Personality'](#personality)
-* ['State of the Empire'](#state-of-the-empire)
-* ['Reforms'](#reforms)
-* ['Nizam-i Cedit'](#nizam-i-cedit)
-* ['Janissaries'](#janissaries)
-* ['Kabakci Mustafa'](#kabakci-mustafa)
+* [Personalit'](#personality)
+* [State of the Empire](#state-of-the-empire)
+* [Reforms](#reforms)
+* [Nizam-i Cedit](#nizam-i-cedit)
+* [Janissaries](#janissaries)
+* [Kabakci Mustafa](#kabakci-mustafa)
 
 ---
 
