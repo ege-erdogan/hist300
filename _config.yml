@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: HIST 300
 description: HIST 300 Class Notes
-baseurl: "/hist300" # the subpath of your site, e.g. /blog
-url: "http://blog.egeerdogan.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://hist300.erdogan.dev" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
@@ -26,10 +26,6 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "About":
-    - "//egeerdogan.com"
-  "FAQ":
-    - "//FAQ"
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
