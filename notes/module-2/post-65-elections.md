@@ -6,7 +6,7 @@ nav_order: 5
 ---
 # 1965 Elections
 
-> AP wins the elections comfortably. Leftist ideology is on the rise. Right-left clashes.af
+> AP wins the elections comfortably. Leftist ideology is on the rise. Right-left clashes.
 
 * [Overall View After the Elections](#overall-view-after-the-elections)
 * [Growth of Political Radicalism on the Left](#growth-of-political-radicalism-on-the-left)
