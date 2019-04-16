@@ -7,7 +7,7 @@ nav_order: 11
 
 # Economy Between 1960-80
 
-> Summary
+> Turkey faces ups and downs in its economy. This results in a period of unrest resulting in the 1980 coup.
 
 * [Road to 1960](#road-to-1960)
 * [Economy after the Coup](#economy-after-coup)
