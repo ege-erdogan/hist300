@@ -8,7 +8,10 @@ nav_order: 10
 
 > Major right-left clashes in Maras. Like a small-scale civil war.
 
-* [Title](#situation-before-the-events)
+* [Situation Before the Events](#situation-before-the-events)
+* [Events](#events)
+* [Aftermath](#aftermath)
+* [Counter-Guerilla Movements](#counter-guerilla-movements)
 
 ---
 
