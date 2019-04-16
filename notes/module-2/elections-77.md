@@ -6,7 +6,7 @@ nav_order: 9
 ---
 # 1977 Elections
 
-> Government calls for early elections. May 1st demonstrations end up with blood. Ecevit has some plans. 
+> Government calls for early elections. All hell breaks loose in Taksim. Ecevit has some plans. 
 
 * [May 1st](#may-1st)
 * [Election](#election)
